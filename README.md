@@ -1,3 +1,5 @@
+![Fast-Food Sales Analysis](assets/banner.svg)
+
 # Fast-Food Sales Analysis — 1,000 orders, 3 items, 64.6% of revenue
 
 One store's sales extract, analysed to answer the question a franchise owner actually asks:
